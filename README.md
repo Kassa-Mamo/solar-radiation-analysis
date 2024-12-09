@@ -1,0 +1,11 @@
+# Solar Radiation Data Analysis 
+"This project aims to analyze solar radiation data from Benin, Sierra Leone, and Togo to help MoonLight Energy Solutions identify high-potential regions for solar installation." 
+"## Objectives" 
+"- Perform Exploratory Data Analysis (EDA) on solar radiation data." 
+"- Visualize relationships between solar radiation, wind, temperature, and other environmental factors." 
+"- Clean and preprocess the data for further analysis and modeling." 
+"## Folder Structure" 
+"- `src/`: Contains main Python code for analysis." 
+"- `notebooks/`: Contains Jupyter notebooks for exploratory data analysis." 
+"- `tests/`: Contains unit tests." 
+"- `scripts/`: Contains utility scripts." 
