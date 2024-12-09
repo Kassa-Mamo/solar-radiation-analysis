@@ -91,6 +91,29 @@ Key visualizations include:
 
 ### 4. Bar Chart of Average GHI by Country
 ![Bar Chart](data/ghi_bar_chart.png)  
+
+
+
+---
+
+## Recommendations
+
+1. **Focus on Benin**:
+   - With the highest average `GHI`, Benin offers the best conditions for solar installations.
+
+2. **Cleaning Optimization**:
+   - Cleaning schedules should account for environmental factors like precipitation and wind speed.
+
+3. **Future Work**:
+   - Expand the dataset to include additional regions.
+   - Develop predictive models for solar radiation based on weather conditions.
+
+---
+
+## License
+This project is licensed under the MIT License.
+
+
 **Caption**: Benin exhibits the highest average `GHI`, making it an ideal candidate for solar farms.
 
 ---
